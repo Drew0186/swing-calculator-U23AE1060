@@ -12,3 +12,5 @@ A simple java calculator application using java swing GUI toolkit for java. Allo
 
 # swing-calculator-U23AE1060
 Swing_calculator_java
+
+# calculator-pic.png
