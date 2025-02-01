@@ -6,9 +6,9 @@ A simple java calculator application using java swing GUI toolkit for java. Allo
 
 * DEPARTMENT: AEROSPACE
 
-* GITHUB ACC: @Drew0186
+* GITHUB ACC: .@Drew0186
 
-* GITHUB REPO: SwingCalculator
+* GITHUB REPO: Swing_calculator_java
 
 # swing-calculator-U23AE1060
 Swing_calculator_java
